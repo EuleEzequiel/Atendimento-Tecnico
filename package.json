@@ -11,6 +11,7 @@
     "start": "NODE_ENV=production node server/index.js"
   },
   "dependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "express": "^4.21.2",
@@ -19,16 +20,15 @@
     "jsonwebtoken": "^9.0.2",
     "pdfkit": "^0.16.0",
     "pg": "^8.13.1",
+    "vite": "^6.0.11",
     "zod": "^3.24.2",
     "dotenv": "^16.4.7"
   },
-    "optionalDependencies": {
+  "optionalDependencies": {
     "better-sqlite3": "^11.8.1"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.3.4",
-    "concurrently": "^9.1.2",
-    "vite": "^6.0.11"
+    "concurrently": "^9.1.2"
   },
   "engines": {
     "node": ">=20"
