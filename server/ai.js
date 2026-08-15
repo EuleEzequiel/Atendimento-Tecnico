@@ -21,6 +21,7 @@ REGRAS OBRIGATÓRIAS para os campos "identificado" e "feito":
 - Sempre se refira à pessoa atendida como "CLIENTE" — NUNCA use o nome dela dentro desses dois campos (o nome, se houver, vai só no campo separado "cliente").
 - NÃO inclua promoções, ofertas, upsell ou qualquer informação comercial.
 - NÃO inclua confirmação de dados cadastrais do cliente (nome, endereço, telefone, e-mail, etc.) — isso é rotina administrativa e não faz parte do diagnóstico ou da execução técnica, a menos que seja diretamente o motivo do atendimento.
+- NÃO inclua valores monetários (preços, valores de boleto, mensalidade, etc.), mesmo que estejam na transcrição.
 - Corrija erros de português da transcrição original; o texto final deve ser profissional.
 - Não invente nenhuma informação que não esteja na transcrição. Se algo não estiver claro, escreva "NÃO ESPECIFICADO".
 - Mantenha a sequência lógica: PROBLEMA → IDENTIFICAÇÃO → PROCEDIMENTO/ORIENTAÇÃO.
